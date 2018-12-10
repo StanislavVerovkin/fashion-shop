@@ -23,6 +23,6 @@
   @content;
 
   &:hover {
-    background-color: lighten($bg);
+    background-color: lighten($bg, 15%);
   }
 }

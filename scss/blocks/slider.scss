@@ -108,7 +108,8 @@
       &:hover {
         background-position: 0 -49px;
       }
-    };
+    }
+  ;
 
     button.owl-next {
       background-position: -49px 0;
@@ -118,6 +119,28 @@
       &:hover {
         background-position: -49px -49px;
       }
+    }
+  }
+
+  .owl-dots {
+    text-align: center;
+    padding: 0 0 15px 0;
+
+    .owl-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 10px;
+      background-color: $white;
+      box-sizing: border-box;
+      border: none;
+      box-shadow: none;
+      padding: 0;
+      margin: 0 5px;
+      cursor: pointer;
+    }
+
+    .active {
+      background-color: $black;
     }
   }
 }

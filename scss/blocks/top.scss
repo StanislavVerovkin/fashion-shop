@@ -12,12 +12,13 @@
   .top__menu {
     flex-basis: 58%;
   }
+
 }
 
 @media (max-width: 768px) {
 
   .top {
-
+    
     .top__left {
       flex-basis: 100%;
       text-align: center;
@@ -27,6 +28,7 @@
     .top__menu {
       flex-basis: 80%;
     }
+    
   }
 
 }
@@ -44,5 +46,7 @@
       flex-basis: 100%;
       justify-content: center;
     }
+
   }
+
 }

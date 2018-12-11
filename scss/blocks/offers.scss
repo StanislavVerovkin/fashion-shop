@@ -31,13 +31,11 @@
       font-weight: 700;
       letter-spacing: 1.425px;
       color: $offers-color;
+      text-transform: uppercase;
     }
 
     a {
-      @include btn() {
-        margin-top: 40px;
-      }
-    ;
+      @include btn();
     }
 
   }
@@ -50,6 +48,7 @@
     p {
       margin: 10px 0;
     }
+
   }
 
   .offers__new {
@@ -70,16 +69,17 @@
       position: absolute;
       left: 0;
       bottom: -9px;
-
     }
+
   }
 
   .offers__center {
     margin: 0 2.1%;
 
     .offers__info {
-      top: 125px;
+      top: 105px;
     }
+
   }
 
   .offers__left {
@@ -98,9 +98,125 @@
       letter-spacing: 1.65px;
       font-weight: 700;
       color: $offers-color;
-
+      margin: 0;
     }
+
   }
+
+  .offers__right {
+
+    .offers__info {
+      top: 50px;
+    }
+
+  }
+
+  .offers__element--glasses {
+
+    .offers__info {
+      left: 0;
+      bottom: 10px;
+      width: 100%;
+      top: auto;
+    }
+
+    p {
+      text-align: center;
+      color: $offers-color;
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 13px;
+      line-height: 25px;
+      letter-spacing: 0.65px;
+    }
+
+  }
+
 }
 
+@media (max-width: 1024px) {
 
+  .offers {
+    flex-wrap: wrap;
+
+    .offers__right {
+      flex-basis: 100%;
+      display: block;
+
+      .offers__element {
+        max-width: 371px;
+        margin: 20px auto;
+      }
+
+    }
+
+    .offers__center {
+      margin: 0;
+    }
+
+  }
+
+}
+
+@media (max-width: 800px) {
+
+  .offers {
+
+    .offers__left {
+      flex-basis: 100%;
+      display: block;
+
+      .offers__element {
+        max-width: 277px;
+        margin: 20px auto;
+      }
+
+    }
+
+    .offers__center {
+      flex-basis: 100%;
+      display: block;
+
+      .offers__element {
+        max-width: 470px;
+        margin: 0px auto;
+      }
+
+    }
+
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .offers {
+    margin: 25px 0;
+
+    .offers__center {
+
+      .offers__info {
+        top: 50px;
+      }
+
+    }
+
+    .offers__right {
+
+      .offers__info {
+        top: 15px;
+      }
+
+    }
+
+    .offers__element--glasses {
+
+      .offers__info {
+        top: auto;
+      }
+
+    }
+
+  }
+
+}

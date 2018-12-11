@@ -36,11 +36,11 @@
         text-decoration: none;
         color: $black;
         font-weight: 700;
-        
+
         &:hover {
           text-decoration: underline;
         }
-        
+
       }
 
     }
@@ -68,12 +68,13 @@
       border: 2px solid #d9c8aa;
       margin: 50px auto;
       padding: 18px 0;
-    };
+    }
+  ;
   }
 
   .owl-nav {
 
-    button.owl-prev, button.owl-next  {
+    button.owl-prev, button.owl-next {
       background: url('../img/sprite-arrow2.png') 0 0 no-repeat;
       width: 49px;
       height: 49px;

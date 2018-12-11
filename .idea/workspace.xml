@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae0846d2-2e98-43fd-bc9f-a9702e74733a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/scss/blocks/banner.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/blocks/blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/blocks/featured.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/blocks/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/blocks/links.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/blocks/products.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/blocks/categories.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/blocks/categories.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/blocks/content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/blocks/content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/blocks/icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/blocks/icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/blocks/menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/blocks/menu.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/blocks/offers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/blocks/offers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/blocks/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/blocks/slider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/blocks/top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/blocks/top.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
-    </list>
+    <list default="true" id="ae0846d2-2e98-43fd-bc9f-a9702e74733a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -95,7 +70,11 @@
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -133,6 +112,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/blocks/banner.scss" />
         <option value="$PROJECT_DIR$/css/owl.carousel.css" />
+        <option value="$PROJECT_DIR$/build/index.html" />
       </list>
     </option>
   </component>
@@ -253,7 +233,7 @@
       <workItem from="1544445760579" duration="5335000" />
       <workItem from="1544453725049" duration="3979000" />
       <workItem from="1544465512269" duration="6250000" />
-      <workItem from="1544524144091" duration="3734000" />
+      <workItem from="1544524144091" duration="3967000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1544444296968</created>
@@ -276,24 +256,30 @@
       <option name="project" value="LOCAL" />
       <updated>1544459518196</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="done">
+      <created>1544529808537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544529808538</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26200000" />
+    <option name="totallyTimeSpent" value="26433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28541338" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.28541338" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5002633" side_tool="true" weight="0.32977778" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4997367" visible="true" weight="0.33688888" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.4997367" visible="true" weight="0.33688888" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -314,7 +300,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gulp.js" />
@@ -651,7 +638,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
